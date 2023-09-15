@@ -115,4 +115,8 @@ footer button {
     .footer-inputbox {
         width: 300px;
     }
+
+    .developer-column {
+        margin-bottom: 30px;
+    }
 }
